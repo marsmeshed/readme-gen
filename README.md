@@ -9,6 +9,9 @@
   
   ## [Description](#table-of-contents)
 
+  Youtube walthrough!
+  https://www.youtube.com/watch?v=9C2P7qokmYc
+
   This project is a readme generator that'll make it much easier to have an automatic professional readme created with just a few simple questions.
   
   Here are mockup images:
